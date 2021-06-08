@@ -1,0 +1,25 @@
+center{
+    text-align:center;
+    border: 3px solid black;
+    }
+    body {
+        background-color: lightcyan;
+      }
+    img {
+            border:5px solid black;
+    }
+
+    .ContainerC {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+    }
+
+    .ContainerC2 {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .sure {
+        float: right;
+    }
